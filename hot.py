@@ -6,7 +6,15 @@ def main():
 	"""output something combined with the input
 	provided by the user
 	"""
-	print 'Hello, You are',sys.argv[1]
+print 'Hello, You are',sys.argv[1]
+    
+first_num = input('Provide first number ')
+    
+second_num = input('Then provide a number to add ')
+    
+total = float(first_num) + float(second_num)
+    
+print('Your total for {0} & {1} is {2}'.format(first_num, second_num, total))
 
 if __name__ == '__main__':
 	#call the function
