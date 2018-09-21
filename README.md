@@ -34,7 +34,7 @@ python version may not matter much at the moment. 😎
 
 ## Contributing
 
-If you canadd  any functionality then its highly appreciated. No conditions.
+If you can add any functionality then its highly appreciated. No conditions.
 
 ## Author
 
